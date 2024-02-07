@@ -69,6 +69,12 @@ while True:
 
 '''
 
+    code +='''
+    pyautogui.press('up')
+    time.sleep(1)
+    pyautogui.press('down')
+    time.sleep(1)
+'''
 
     script_content = code
     
