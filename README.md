@@ -1,2 +1,2 @@
 # Automate-buttons-pressing
-script to automate buttons pressing when pre-established events occur
+script to automate buttons pressing when pre-established events occur. Very useful on Google Colab,
